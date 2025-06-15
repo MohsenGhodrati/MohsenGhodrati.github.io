@@ -1,0 +1,26 @@
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background: #fff;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+nav a {
+    margin: 0 10px;
+    color: #0366d6;
+    text-decoration: none;
+}
+main {
+    padding: 20px;
+}
+h1, h2, h3 {
+    color: #222;
+}
